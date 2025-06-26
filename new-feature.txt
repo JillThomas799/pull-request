@@ -1,2 +1,2 @@
 This file was created in the feature1 branch.
-This additional line has been added to test spelling of Farlam and corrections for Penrith
+This additional line has been added for test purposes.
